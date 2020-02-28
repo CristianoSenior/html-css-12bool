@@ -6,6 +6,18 @@
 
 [class*="col-"] {
   background-color: pink;
-  height: 150px;
+  height: 100%;
   border: 1px solid black;
+}
+
+
+.alfionelcuore{
+  padding:10px;
+}
+
+
+.white{
+  border: 1px solid white;
+  background-color: green;
+
 }
